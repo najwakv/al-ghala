@@ -1,3 +1,4 @@
+import Button from "../pihu/Button";
 import "./Layout.css";
 
 const Layout = () => {
@@ -5,6 +6,7 @@ const Layout = () => {
     <>
       <header className="header text-center">
         <h1>Al-Ghala Children Skill Development Center</h1>
+        <Button/>
       </header>
 
       <nav className="sticky navbar">
