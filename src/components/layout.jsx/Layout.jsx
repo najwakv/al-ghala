@@ -3,7 +3,7 @@ import "./Layout.css";
 const Layout = () => {
   return (
     <>
-      <header className="header">
+      <header className="header text-center">
         <h1>Al-Ghala Children Skill Development Center</h1>
       </header>
 
